@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Devin Knotts and I am a fullstack enigneer.
-currerntly studying at General Assembly.
+currently studying at General Assembly.
  
  
  
