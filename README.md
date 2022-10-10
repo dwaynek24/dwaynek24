@@ -5,7 +5,7 @@
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dwaynek24.dwaynek24)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=dwaynek24.dwaynek24)
 
 <!--
 **dwaynek24/dwaynek24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
