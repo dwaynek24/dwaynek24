@@ -1,7 +1,10 @@
 ### Hi there 👋
 My name is Devin Knotts and I am a fullstack enigneer.
 currerntly studying at General Assembly.
- 📫 How to reach me: devinwayneknotts@gmail.com
+ 
+ 
+ 
+ 📫 How to reach me:devinwayneknotts@gmail.com
 
 
 
